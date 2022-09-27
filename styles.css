@@ -1,0 +1,137 @@
+.heading{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    margin: 90px auto;
+    padding: 5px;
+    color: yellow;
+    background-color: brown;
+    display: inline-block;
+    border-radius: 25px;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+hr{
+    border-style: double;
+    margin: 10px 0;
+    border-bottom: none;
+}
+a{
+    text-decoration: none;
+}
+
+
+.shop-name{
+    color: red;
+}
+.menu-bar{
+    text-align: center;
+    background-color: grey;
+    padding: 6px;
+    border-radius: 50px;
+    
+}
+.menu{
+    color: yellow;
+    margin: auto 5%;
+}
+.welcome{
+    text-align: center;
+    background-image:url(background.jpg);
+    padding: 60px 0;
+    margin-top: 10px;
+    background-repeat: round;
+    padding-top: 20px;
+    background-size: cover;
+    border-radius: 50px;
+}
+.greet{
+    color:rgb(246, 255, 0);
+    font-size: 50px;
+    text-shadow: 4px 4px 3px #1b5e00;
+    margin-top: 70px;
+    
+    
+}
+.order{
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    font-size: 20px;
+    background-color: bisque;
+    padding: 6px;
+    display: block;
+    width: 150px;
+    margin: 100px auto;
+    border-radius: 25px;
+}
+.bar{
+    margin: 100px 0 10px;
+    
+    
+}
+.prices{
+    width: 30%;
+    height: 180px;
+    /* margin:auto; */
+    display: inline-block;
+    margin-right: 7.5%;
+    background-image: url(prices.jpg);
+    background-repeat: round;
+    box-shadow: 10px 10px 20px 40px rgb(0, 0, 0);
+    border-radius: 70px;
+}      
+   
+.specials{
+    width: 30%;
+    height: 180px;
+    /* margin:auto; */
+    display: inline-block;
+    margin-left: 7.5%;
+    background-image: url(special.jpg) ;
+    background-repeat: round;
+    box-shadow: 10px 10px 20px 40px rgb(0, 0, 0);
+    border-radius: 70px;
+}
+.order1{
+    width: 20%;
+    height: 180px;
+    margin:10px 2.3% ;
+    display: inline-block;
+    background-image: url(order1.jpg);
+    background-repeat: round;
+    border-radius: 50px;
+    text-align: center;
+} 
+.order2{
+    width: 20%;
+    height: 180px;
+    margin:10px 2.3% ;
+    display: inline-block;
+    background-image: url(order2.jpg);
+    background-repeat: round;
+    border-radius: 50px;
+    text-align: center;
+}
+.order3{
+    width: 20%;
+    height: 180px;
+    margin:10px 2.3% ;
+    display: inline-block;
+    background-image: url(order3.jpg);
+    background-repeat: round;
+    border-radius: 50px;
+    text-align: center;
+}
+.order4{
+    width: 20%;
+    height: 180px;
+    margin:10px 2.3% ;
+    display: inline-block;
+    background-image: url(order4.jpg);
+    background-repeat: round;
+    border-radius: 50px;
+    text-align: center;
+}
